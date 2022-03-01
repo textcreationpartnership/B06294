@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of waters. Shewing the particular natures, various uses, and wonderful operations both in food and physick, the all-wise creator hath endued this cleansing element with. I. Of rain-water. II. River or running-water. III. Spring or fountain-water. IV. Well or pump water. V. Pond or standing-water, with something concerning purging-waters. Published for the benefit of mankind. / By Thomas Tryon. Author of the Good house wife made a doctor, Country-mans companion, Monthly observations for health, &amp;c.</title>
+            <author>Tryon, Thomas, 1634-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06294</idno>
+            <idno type="STC">Wing T3177</idno>
+            <idno type="STC">ESTC R185763</idno>
+            <idno type="EEBO-CITATION">51784687</idno>
+            <idno type="OCLC">ocm 51784687</idno>
+            <idno type="VID">175087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175087)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2712:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of waters. Shewing the particular natures, various uses, and wonderful operations both in food and physick, the all-wise creator hath endued this cleansing element with. I. Of rain-water. II. River or running-water. III. Spring or fountain-water. IV. Well or pump water. V. Pond or standing-water, with something concerning purging-waters. Published for the benefit of mankind. / By Thomas Tryon. Author of the Good house wife made a doctor, Country-mans companion, Monthly observations for health, &amp;c.</title>
+                  <author>Tryon, Thomas, 1634-1703.</author>
+               </titleStmt>
+               <extent>[3], 24 [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle, ...</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Manuscript notes opposite t.p.</note>
+                  <note>Advertisement, p. [1]-[2] at end.</note>
+                  <note>Imperfect: print show-through with minor loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Water --  Folklore --  Early works to 1800.</term>
+               <term>Water --  Health aspects --  Early works to 1800.</term>
+               <term>Water --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175087:1" rendition="simple:additions"/>
+            <pb facs="tcp:175087:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF WATERS.</p>
+            <p>Shewing the Particular Natures, various Uſes, and wonder<g ref="char:EOLhyphen"/>ful Operations both in FOOD and PHYSICK, The All-wiſe Creator hath Endued this Cleanſing Element with.</p>
+            <p n="1">I. Of <hi>Rain-Water.</hi>
+            </p>
+            <p n="2">II. <hi>River</hi> or <hi>Running-Water.</hi>
+            </p>
+            <p n="3">III. <hi>Spring</hi> or <hi>Fountain-Water.</hi>
+            </p>
+            <p n="4">IV. <hi>Well</hi> or <hi>Pump-Water.</hi>
+            </p>
+            <p n="5">V. <hi>Pond</hi> or <hi>Standing-Water,</hi> with ſomething Concerning <hi>Purging-Waters.</hi> Publiſhed for the Benefit of Mankind.</p>
+            <p>By <hi>THOMAS TRYON.</hi>
+            </p>
+            <p>Author of the <hi>Good Houſe-Wife Made a Doctor, Country-Mans Companion, Monthly Obſerva<g ref="char:EOLhyphen"/>tions for Health,</hi> &amp;c.</p>
+            <p>
+               <hi>London:</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-Houſe</hi> in <hi>White-Hart Court</hi> in <hi>Gracious-ſtreet.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175087:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:175087:2"/>
+            <head>A DISCOURSE OF WATERS.</head>
+            <p>Shewing the particular Natures, various Uſes, and wonderful Operations both in Food and Phyſick, the All-wiſe Creator hath Endued this Cleanſing Element with.</p>
+            <p>Publiſhed for the Benefit of Mankind.</p>
+            <list>
+               <item>I. Of <hi>Rain-Water.</hi>
+               </item>
+               <item>II. <hi>River</hi> or <hi>Running-Water.</hi>
+               </item>
+               <item>III. <hi>Spring</hi> or <hi>Fountain-Water.</hi>
+               </item>
+               <item>IV. <hi>Well</hi> or <hi>Pump-Water.</hi>
+               </item>
+               <item>V. <hi>Pond</hi> or <hi>Standing-Water.</hi>
+               </item>
+            </list>
+            <p>THE Element of <hi>Water</hi> is not inferi<g ref="char:EOLhyphen"/>or to any other of the Elements, neither is Nature wanting to work won<g ref="char:EOLhyphen"/>derfully
+<pb n="2" facs="tcp:175087:3"/> thereby; there is ſo great Ne<g ref="char:EOLhyphen"/>ceſſity of Water, that without it no <hi>Ani<g ref="char:EOLhyphen"/>mal</hi> can live, nor any <hi>Herb</hi> or <hi>Plant</hi> bring forth; for in it is the Seminary Vertue of all things, eſpecially of <hi>Animals,</hi> whoſe Seed is manifeſtly Watriſh. The Seeds alſo of all <hi>Herbs</hi> and <hi>Plants,</hi> although they are Earthy, muſt notwithſtanding be rooted in moiſture before they can be fruitful. The great and illuminated Pro<g ref="char:EOLhyphen"/>phet <hi>Moſes</hi> tells us, that before the Crea<g ref="char:EOLhyphen"/>tion, when the Earth was without Form, the Spirit of the Lord moved on the Face of the Waters; and in another place, that the <hi>Plants</hi> did not grow, becauſe God had not cauſed it to Rain upon the Earth. Nay, ſo great is the Efficacy of this cleanſing Element, that the ſpiritual Regeneration cannot be performed with<g ref="char:EOLhyphen"/>out it, as our Saviour Chriſt himſelf te<g ref="char:EOLhyphen"/>ſtified to <hi>Nicomedus;</hi> and very great have the Vertues of it been in Religious Worſhip in former Ages, among the Prophets and Wiſe Men in Expiations and Purifications. Innumerable are the Benefits, and ſo various the Uſes thereof, both in the Generation, Nouriſhment and Increaſe of things, that ſome of the Wiſe Men have concluded, that <hi>Water</hi>
+               <pb n="3" facs="tcp:175087:3"/> was the beginning of all things, and firſt of all Elements, and the moſt Potent, be<g ref="char:EOLhyphen"/>cauſe it hath the maſtery over all the reſt, for it ſwalloweth up the Earth, extin<g ref="char:EOLhyphen"/>guiſhes Flames, aſcends on high, and by a moſt wonderful Divine Hand, and the ſtretching forth of the Clouds, challeng<g ref="char:EOLhyphen"/>eth the Heavens for its Throne, whence falling down in gentle Showers and refre<g ref="char:EOLhyphen"/>ſhing Dews, as from Natures choiceſt Limbeck, impregnated with Coeleſtial Vertues, it becomes the cauſe of all things that grow in the Earth.</p>
+            <p>Nor is there ſcarce any part of Nature more full of Wonders than theſe liquid Regions. <hi>Joſephus</hi> tells us of a River near <hi>Sina,</hi> which runneth with a full Channel all the <hi>Sabbath-Day,</hi> and then on a ſudden it ceaſeth, as if the Spring were ſtopped, and all the ſix days you may paſs over it dry-ſhod; but again on the ſeventh-day (no Man knowing the reaſon of it) the Waters return in abun<g ref="char:EOLhyphen"/>dance as before; wherefore the Inhabi<g ref="char:EOLhyphen"/>tants thereabouts call it the <hi>Sabbath days River.</hi> The Goſpel teſtifies of a <hi>Sheep-Pool,</hi> into which whoſoever ſtopped firſt, after the Waters were troubled by the Angel, was made whole of whatſoever Diſeaſe he had.</p>
+            <pb n="4" facs="tcp:175087:4"/>
+            <p>Many ſecret and admirable Vertues the Creator hath endued this Element with, as in all Ages hath been manife<g ref="char:EOLhyphen"/>ſted; for it being pure and clear in its own Nature, it is the only and alone thing by which all external things are purified, purged and cleanſed: But if it be adulterated or incorporated with any other Liquor or Juice, then it becomes leſs pure, and will not ſo well perform its Office, yet it may make them better and more uſeful. Though it be a vulgar Proverb—<hi>As weak as Water:</hi> Yet I muſt tell you, <hi>Water</hi> is more ſtrong and ſublime that moſt imagine, for it con<g ref="char:EOLhyphen"/>tains a moſt raviſhing and excellent <hi>Spi<g ref="char:EOLhyphen"/>rituous Balſamick Vertue,</hi> whence pro<g ref="char:EOLhyphen"/>ceeds that pure ſweet refreſhing Quality, whereby it hath Power by its innate Ver<g ref="char:EOLhyphen"/>tue to digeſt and purifie all ſorts of Food: Alſo, in all Preparations it is ſo Innocent and Friendly that it diſſipates the groſs phlegmy Bodies, and preſerves the more eſſential Parts and Vertues, and keeps the <hi>Spirituous Parts</hi> living.</p>
+            <p>It is not only the moſt plentiful and truly pleaſant of all Drinks, but it ſup<g ref="char:EOLhyphen"/>plies Nature with its friendly Moiſture, and relieves Thirſt beyond all other Li<g ref="char:EOLhyphen"/>quors
+<pb n="5" facs="tcp:175087:4"/> or Juices: It is ſo Simple, and en<g ref="char:EOLhyphen"/>dued with ſuch Equality, that it inſinu<g ref="char:EOLhyphen"/>ates its Vertue into all parts of the Body in an inſenſible way; it makes no Noiſe, nor cauſes any Tumults in the Brain, nor awakens any Inequality in the Body, but imparts its meek Life as it were in ſi<g ref="char:EOLhyphen"/>lence.</p>
+            <p>And as <hi>Bread</hi> hath the firſt place of all Food, and may juſtly be called <hi>Concord,</hi> or a thing which God and his Handmaid Nature, hath befriended with all the uni<g ref="char:EOLhyphen"/>ted good Vertues both of the <hi>Vegetable</hi> and <hi>Animal</hi> Kingdoms, and therefore no ſort of Food is comparable thereunto, nor will gratifie Nature to the degree as it ought, without the help and mixture of Bread; though yet it is not the ſtrongeſt of all Foods, nor hath the greateſt Nou<g ref="char:EOLhyphen"/>riſhment, but it is the moſt equal in its parts, and ſtands neareſt the Unity, for which cauſe it is ſo much deſired, and juſtly eſteemed the <hi>Staff of Life;</hi> and we are taught to Pray for all outward Ac<g ref="char:EOLhyphen"/>commodations needful for our Bodies un<g ref="char:EOLhyphen"/>der that ſignificant denomination of <hi>Our daily Bread,</hi> it being, beſides its own nu<g ref="char:EOLhyphen"/>tritive faculty, a proper Ingredient to qualifie the Inequality ofmoſt other ſorts
+<pb n="6" facs="tcp:175087:5"/> of Food, and is the Foundation to all good Nouriſhment: The like is to be under<g ref="char:EOLhyphen"/>ſtood of <hi>Water,</hi> that being the <hi>Radix</hi> of all moiſt Nouriſhment, which mixt or incorporated with any kind of Juices, renders them fit and profitable for Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>Nay, (if we may fly our Contempla<g ref="char:EOLhyphen"/>tions to an higher pitch) there is a Sym<g ref="char:EOLhyphen"/>pathetical agreement, or ſome Analogy between this External Water and that <hi>Internal,</hi> of which our Saviour Chriſt told the Woman of <hi>Samaria,</hi> that if ſhe did drink, ſhe ſhould never thirſt: This Internal Super-eſſential Water ſuſtaineth every Being, and is the Radix and Life of the <hi>outward Water,</hi> which contains ſome Shadows of the ſecret Influences of the Water Internal; for which reaſon the Prophets and good Men of old have fre<g ref="char:EOLhyphen"/>quently compared the one with the other, and expreſſed the one by the other, and alſo have made uſe of <hi>Water</hi> in Religious Myſteries as a ſign of Cleanſing and Pu<g ref="char:EOLhyphen"/>rifying the Soul from Sins, and for cu<g ref="char:EOLhyphen"/>ring Diſeaſes, <hi>&amp;c.</hi> as the Scriptures<g ref="char:punc">▪</g> do teſtifie.</p>
+            <p>Thus much I thought fit to ſay of <hi>Wa<g ref="char:EOLhyphen"/>ter</hi> in general, to ſtir up men to praiſe
+<pb n="7" facs="tcp:175087:5"/> and admire the Goodneſs and Wiſdom of the <hi>All Creator,</hi> for the manifold Uſes, Vertues and Benefits wherewith he hath endued this Element. But now let us conſider the ſeveral ſorts of <hi>Water.</hi>
+            </p>
+            <div type="part">
+               <head>Of <hi>Rain-Water</hi> and its Nature.</head>
+               <p>I name this <hi>Water</hi> firſt, becauſe for ſe<g ref="char:EOLhyphen"/>veral Reaſons it is the beſt of all, if not defiled by Accidents, as by Tiles of Hou<g ref="char:EOLhyphen"/>ſes, or the Veſſels 'tis kept in. For,</p>
+               <p>
+                  <hi>1ſt.</hi> It is a light pure thin Water.</p>
+               <p>
+                  <hi>2dly.</hi> It is drawn up into the Clouds by the power and vertue of the ſweet Influ<g ref="char:EOLhyphen"/>ences of the Sun Beams.</p>
+               <p>
+                  <hi>3dly.</hi> Being carried to and fro with the Clouds by Gods Divine Power, it hath thereby had the greater benefit of Moti<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <hi>4thly.</hi> 'Tis endued with wonderful Vertue from the Element of Air, and the ſweet Influences of the Coeleſtial Bodies, whereby it is made more Spirituous than other Waters, and of a fat unctious Qua<g ref="char:EOLhyphen"/>lity, of a light friendly mild Nature and Operation: Thus it mollifies the harſh Earth, making it light and tender, and cauſes all Plants to multiply and grow
+<pb n="8" facs="tcp:175087:6"/> far better than any Artificial Watrings can do; <hi>Rain Water</hi> being (among its other Vertues) like a Ferment or Lea<g ref="char:EOLhyphen"/>ven, that makes the hard compacted Earth more ſpirituous and penetrable, gi<g ref="char:EOLhyphen"/>ving Life and Motion to all the <hi>Vegetable</hi> Kingdom.</p>
+               <p>
+                  <hi>5thly. Rain-Water</hi> is not only exhaled by the Beams of Heaven from the moſt clear and ſubtle Fountains, and impreg<g ref="char:EOLhyphen"/>nated with the Coeleſtial Influences, but alſo is, as it were, <hi>ſtrained</hi> with the Ai<g ref="char:EOLhyphen"/>ry Motions and Winds, which fill it with a <hi>Saline</hi> and <hi>Balſamick Vertue,</hi> when it deſcends (like the Tears of a repenting Sinner) in gentle reviving Showers, that give Vertue and Power to all <hi>Vegetables,</hi> and reſtore the gaſping parched Earth and languiſhing Nature to the briskneſs of the Spring and Joys of Autumn.</p>
+               <p>
+                  <hi>6thly.</hi> This is the <hi>lighteſt</hi> of all Wa<g ref="char:EOLhyphen"/>ters, it cools and heats quickly; it oppreſ<g ref="char:EOLhyphen"/>ſes not the Stomach, or any other part of the Body, but paſſeth ſuddenly into the <hi>
+                     <g ref="char:V">Ʋ</g>reters,</hi> having neither in Colour, Smell nor Taſte any manifeſt Quality; it bind<g ref="char:EOLhyphen"/>eth not the Belly as ſome other Waters do, and is the beſt to be uſed in all Phyſi<g ref="char:EOLhyphen"/>cal Operations, if it be well received,
+<pb n="9" facs="tcp:175087:6"/> and afterwards kept from defilement.</p>
+               <p>
+                  <hi>7thly.</hi> It is to be preferred before all o<g ref="char:EOLhyphen"/>ther Waters in Houſe-wifery, for it Boyls all ſorts of Meats better and ſooner, and makes them eaſier of Concoction; as like<g ref="char:EOLhyphen"/>wiſe it Brews and Waſhes to greater ad<g ref="char:EOLhyphen"/>vantage than others.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Rain-Water</hi> hath likewiſe various other Uſes and excellent Vertues, <hi>viz.</hi>
+               </head>
+               <p>It is a good remedy for all ſorts of ſore Eyes, they being waſhed often with it; or if a little white Bread be put into the Water with a ſmall quantity of white Su<g ref="char:EOLhyphen"/>gar, and then made boiling hot, being ſtir<g ref="char:EOLhyphen"/>red all the time, then applied in the man<g ref="char:EOLhyphen"/>ner and form of a Pulteſs every two or three hours.</p>
+               <p>This Water is alſo good to waſh all ſorts of Wounds and Sores, and if it be done often, it mightily forwards the Cure.</p>
+               <p>The beſt Seaſons to receive this <hi>Water</hi> in, are <hi>March, April, May, June,</hi> and <hi>July,</hi> it being put into Glaſs Bottles; let them ſtand in the Windows of airy Rooms, or without Doors open, that the
+<pb n="10" facs="tcp:175087:7"/> Air may have its free Influence on them, which will preſerve and keep the fine thin ſpirituous Qualities living; which if they are ſtopped, will in a ſhort time become ſtagnated.</p>
+               <p>This Water doth likewiſe make an ex<g ref="char:EOLhyphen"/>cellent Pulteſs againſt the <hi>Gout,</hi> Pains in the Sides and other Infirmities of the like Nature.</p>
+               <p>Take one Quart of this <hi>Water,</hi> half a Pint of Ale, a little Balm, Parſly and Mint, of each an equal quantity cut ſmall, and as much good Bread as will make it thick; then add to this two Ounces of the beſt Sugar, mix them well, then make it boiling hot, ſtirring it all the time it is on the Fire; then it is done, ſpread this Pulteſs indifferent thick on a Linnen Cloath as warm as Milk from the Cow, apply it every two or three hours, for one, two, or three Days, as we have treated more largely in the Good Houſe-Wife made a Doctor.</p>
+            </div>
+            <div type="part">
+               <head>Of <hi>River-Water.</hi>
+               </head>
+               <p>This is next in Goodneſs, whoſe Ori<g ref="char:EOLhyphen"/>ginal is <hi>Fountain</hi> or <hi>Spring Water,</hi> and
+<pb n="11" facs="tcp:175087:7"/> yet there is rarely any Spring Water ſo good for common and general uſe at the Fountain-Head as in the River. For,</p>
+               <p>
+                  <hi>1ſt. Rivers</hi> or <hi>running Waters</hi> have great advantages by paſſing through vari<g ref="char:EOLhyphen"/>ous Soils and ſorts of Earth, from whence it drains or ſucks in a certain <hi>
+                     <g ref="char:V">Ʋ</g>nctious Vertue,</hi> or <hi>Saline Fatneſs,</hi> which the ſur<g ref="char:EOLhyphen"/>face of the Earth does plentifully contain, and from which <hi>Vegetation</hi> does chiefly proceed.</p>
+               <p>
+                  <hi>2dly.</hi> This ſort of Water has the bene<g ref="char:EOLhyphen"/>fit of Motion, with the benevolent Influ<g ref="char:EOLhyphen"/>ences of the Sun, and the Element of the Air, which purge it from its harſh earthy Qualities, and as it were open its Body, enduing it with a pure Spirituous, Airy and Balſamick Vertue, of a warming friendly Nature and Operation: This is the chief reaſon why <hi>River-Water</hi> is of a ſofter milder Nature, and will perform all Preparations in Houſe-wifery to more advantages than Spring-Water taken from the Fountain-Head; for there moſt Wa<g ref="char:EOLhyphen"/>ters retain a <hi>Saturnine</hi> earthy Quality, which the Influences of the Sun and Air, with the help of Motion, do deſtroy.</p>
+               <p>
+                  <hi>3dly.</hi> The <hi>New-River</hi> that ſupplies <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+                  <pb n="12" facs="tcp:175087:8"/> is ſome of the beſt Water in <hi>England</hi> (except <hi>Thames</hi> Water) it being a cut or made River that runs on the Surface of the Earth for above twenty Miles, and is not ſed or increaſed by hungry Springs, as many other Rivers are that run through Vallies, which is their own Natural way, but Land-Floods ſometimes fall into it, which augment its Vertue and Goodneſs, for they are the richeſt of Waters, drain<g ref="char:EOLhyphen"/>ing and ſucking into themſelves the fat <hi>Saline Vertue</hi> of the Earth: For this rea<g ref="char:EOLhyphen"/>ſon moſt Vallies that lie between the Hills are ſo fruitful; for the Waters that run off the Hills do waſh or carry away the <hi>Salintral Vertue</hi> into them, and there it centers; and thus Hills come not to be ſo fruitful as Valleys or Plains, by reaſon of ſuch diſadvantages: Whereas on the con<g ref="char:EOLhyphen"/>trary, do not Land Floods, and the over<g ref="char:EOLhyphen"/>flowing of Rivers, make Meadows fruit<g ref="char:EOLhyphen"/>ful from the ſame cauſes? For when the Waters retire and ſink away, they leave behind them the <hi>Saline</hi> or <hi>Spiritual Qua<g ref="char:EOLhyphen"/>lity,</hi> that does <hi>Muck</hi> ſuch Ground, as tho' it had been over-ſpread with ſubſtantial <hi>Dung.</hi> And indeed the very ſame is to be underſtood when a Man dungs his
+<pb n="13" facs="tcp:175087:8"/> Land, it is not altogether the groſs ſub<g ref="char:EOLhyphen"/>ſtance or matter that enricheth the Land, but it is the before-mentioned fat <hi>Saline Quality,</hi> which the moiſture of the Earth receives, and the Rains waſh out of the Dung; for if you lay a load of Dung in a heap, and let it lie a Week, two or three, and then remove it clean away from that place, and ſpread it thick in another place, yet that ſpot which the Dung lay on two or three Weeks, will be more enriched than where the groſs ſubſtance is ſpread; for the Earth, with the help of the Rains and Dews, ſucked into it ſelf the <hi>Salintral Vertue</hi> of the Dung. Therefore in moſt Fields, where ſuch heaps of Dung do lie for a while before they are ſpread, both the Graſs and Corn is not only greener, but alſo much ſtronger, and more in quan<g ref="char:EOLhyphen"/>tity than in other places of the Field.</p>
+               <p>
+                  <hi>4thly. River-Water,</hi> for the Reaſons aforeſaid, is better for Men and Beaſts to drink of, than Springs or Pump-Water; it boyls all ſorts of Herbs, Fiſh and Fleſh better, and makes better and wholſomer Pottages; it brews Beer and Ale to more Advantage, both in Quality and Quanti<g ref="char:EOLhyphen"/>ty, and waſhes all ſorts of Linnen and
+<pb n="14" facs="tcp:175087:9"/> Woollen with leſs Pains, Charge and Da<g ref="char:EOLhyphen"/>mage to the things. This Water ſeems to be pretty equal in its parts, having no manifeſt 'Taſte, but a certain friendly mild ſweetneſs predominates; and there is as much difference between the Nature and Operation of <hi>River-Water</hi> and <hi>Pump</hi> or <hi>Well-Water,</hi> as there is between <hi>Beer</hi> and <hi>Ale;</hi> and the Excellency of the latter a<g ref="char:EOLhyphen"/>bove the former, I ſhall demonſtrate in its proper place.</p>
+            </div>
+            <div type="part">
+               <head>Of <hi>Spring</hi> or <hi>Fountain-Water.</hi>
+               </head>
+               <p>There are various ſorts of this Water, ſome <hi>Better,</hi> ſome <hi>Worſe,</hi> according to the Nature of the Earth it paſſes through: If Springs or Fountains proceed from a Chalky Earth or ſome ſorts of hot Sands, or run near the ſurface of the Earth, they are thereby endued with a meek ſoft friend<g ref="char:EOLhyphen"/>ly nature and operation, without any ma<g ref="char:EOLhyphen"/>nifeſt harſhneſs; but thoſe that run in the deep Bowels of the Earth, and through cold hungry ſtony places, are more hard and <hi>Saturnine;</hi> neither ſo wholſome for Man or Beaſt to drink, nor to be uſed in <hi>Houſewifery.</hi> But though it be thus at the
+<pb n="15" facs="tcp:175087:9"/> Fountain-Head, yet if the ſame run long afterwards through various ſoils in the o<g ref="char:EOLhyphen"/>pen Air, <hi>&amp;c.</hi> It may become very good for all uſes, as aforeſaid.</p>
+               <p>And <hi>Note:</hi> Whereas ſome River-Water will look of a wheyiſh whitiſh Colour, cau<g ref="char:EOLhyphen"/>ſed either by its long running without be<g ref="char:EOLhyphen"/>ing fed by Plenty of Springs, or elſe by Land<g ref="char:EOLhyphen"/>floods, yet in either caſe it is not the worſe to be liked, but rather the better; for all ſuch Water is of great vertue, of a very mild fat opening Quality, cauſed by the ſaline vertue; which People not under<g ref="char:EOLhyphen"/>ſtanding, do often refuſe either to drink or uſe in Houſewifery, calling it dirty mud<g ref="char:EOLhyphen"/>dy Water; whereas the whiter any Wa<g ref="char:EOLhyphen"/>ters look, the better they are for moſt u<g ref="char:EOLhyphen"/>ſes, eſpecially when Land-floods ſhall be the occaſion of it, as appears by the In<g ref="char:EOLhyphen"/>ſtances of Valleys and Meadows thereby enricht, which I mentioned but now.</p>
+            </div>
+            <div type="part">
+               <head>Of <hi>Pump</hi> or <hi>Well-Water.</hi>
+               </head>
+               <p>Theſe likewiſe are capable of ſeveral de<g ref="char:EOLhyphen"/>grees, better or worſe, according to the nature of the Earth from whence they a<g ref="char:EOLhyphen"/>riſe; but they are generally of a cold hun<g ref="char:EOLhyphen"/>gry
+<pb n="16" facs="tcp:175087:10"/> hard nature, nothing ſo good as the former; and ſuch Springs as lie deepeſt in the Bowels of the Earth, are of a lean <hi>Sa<g ref="char:EOLhyphen"/>turnine</hi> Quality, in compariſon of that Water which runs near the ſurface, being deprived of that ſaline Nature which irri<g ref="char:EOLhyphen"/>tates Vegetation; for moſt Earths, after you come two or three yards deep, are of a hard cold hungry Quality, and if a quan<g ref="char:EOLhyphen"/>tity of ſuch Earth be expoſed to the open Elements, and laid two or three foot thick, there will hardly any ſort of Vege<g ref="char:EOLhyphen"/>table grow on it, until the Sun and Coe<g ref="char:EOLhyphen"/>leſtial Influences have endued it with a <hi>Salnitral</hi> Vertue; and as the Earth is, ſo is the Water, <hi>viz.</hi> of the ſame Nature, <hi>Gold</hi> and <hi>Hungry.</hi>
+               </p>
+               <p>2. Such Waters want the Coeleſtial In<g ref="char:EOLhyphen"/>fluences and Air, nor have the benefit of Motion, or but in a very ſmall degree; hence they are more unwholſome than the others before treated of, and generally bind the Body, and are ſubject to obſtruct Nature, neither will they perform the like good Offices in <hi>Houſewifery.</hi>
+               </p>
+               <p>The like is to be underſtood of moſt or all Purging Waters, which of late have been ſo mightily cryed up for their Pur<g ref="char:EOLhyphen"/>gative
+<pb n="17" facs="tcp:175087:10"/> Vertues. Now thoſe Waters in general are Cold, Harſh, and Earthy, of a lean hungry Quality; being as it were wholly deſtitute of that <hi>Saline Nature,</hi> and Coeleſtial Vertue, that other Waters are impregnated with, that run on the ſurface of the Earth, as is before-mentioned.</p>
+               <p>Therefore the Purgative Qualities in theſe Waters do chiefly proceed from Coldneſs, Weight, and the not being ac<g ref="char:EOLhyphen"/>cuſtomed to the drinking of Water, for when Nature is overcharged either with Drink or Food, ſhe uſeth all poſſible Means and Methods, to diſcharge her ſelf of thoſe burdens; for this cauſe the common drinking of ſuch Quantities of theſe Waters do prove dangerous, and many hundreds have found the remedy worſe then the Diſeaſe by a full Experi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>The firſt Finders and Drinkers of theſe Waters, did live and uſe them more re<g ref="char:EOLhyphen"/>gular and temperately, which by degrees moſt have degenerated from all ſober Me<g ref="char:EOLhyphen"/>thods, into the higheſt Degrees of all kinds of Debauchery.</p>
+               <p>Now as this Noble Element is the Ori<g ref="char:EOLhyphen"/>ginal Foundation, and Spring-head of all
+<pb n="18" facs="tcp:175087:11"/> moiſt Nouriſhment; therefore it is not to be doubted, but that it is the only drink ordained both for Man and Beaſt, all o<g ref="char:EOLhyphen"/>ther Liquors being not only Inferior, but as it were unnatural and diſagreeing; the common Uſe and Drinking of all fermen<g ref="char:EOLhyphen"/>ted Drinks, do generate the Stone, Gout, all Obſtructions of the Ureters, Feavers, and a thouſand Evils, which are not known in thoſe Countries where the Na<g ref="char:EOLhyphen"/>tives Drink Water; and if <hi>Engliſh</hi> People would be ſo wiſe to Drink Water more, eſpecially the Women, great numbers would certainly find the Benefit thereof; by being cured of various Diſeaſes both of the Body and Mind.</p>
+               <p>This Liquid Region is the <hi>Menſtrum</hi> of the great World, which doth impregnate all things with Vertue, Power, and Strength, and it is the only Moiſture that is moſt agreeable to that digeſting Liquor of Man's Sromack called the <hi>Menſtrum,</hi> whoſe Office it is to temper and digeſt our Foods, and as Water has no manifeſt taſte or predominate Quality, <hi>viz.</hi> it is nei<g ref="char:EOLhyphen"/>ther Aſtringent, Salt, Bitter, Sharp, nor Sweet; and therefore it bows and aſſimi<g ref="char:EOLhyphen"/>lates it ſelf to all things, even as the <hi>Men<g ref="char:EOLhyphen"/>ſtrum</hi>
+                  <pb n="19" facs="tcp:175087:11"/> of Man's Stomack to all Foods, for this cauſe Water being drank after Sweet, Bitter, Salt, or Sharp Food, it ſtill re<g ref="char:EOLhyphen"/>tains its intire natural Taſte.</p>
+               <p>The like is to be underſtood in Sickneſs, when the Pallate has loſt or forfeited its Taſte as to all made Drinks, but ſtill Wa<g ref="char:EOLhyphen"/>ter is the ſame as in Health; the Reaſon is plain, good Water hath in it no ex<g ref="char:EOLhyphen"/>tream Qualities, ſo that it bedues the Bo<g ref="char:EOLhyphen"/>dy with its mild and friendly Moiſture, giving Life and Power by Vertue of the fine, ſpirituous, thin, ſweet, Vapours of the Air, which are the refreſhing <hi>Zephi<g ref="char:EOLhyphen"/>rus</hi> of Nature, and keeps the Elements of the Bodies free from heat and diſorders; which renders the Body full of Spirits, brisk, vigorous and ſprightly, which pleaſant Condition is ſeldom or never felt by them, that give themſelves to the drinking of Strong Liquors; therefore the common uſe of them are Friends to Vitiouſneſs, and Mortal Enemies to Ver<g ref="char:EOLhyphen"/>tue, and there is nothing doth deprave Mankind, and ſeparate him from God and all goodneſs more, then the continu-Gormandizing of unclean groſs Food, and Guzzelling down Strong Drink into their fooliſh Hogs-heads.</p>
+               <pb n="20" facs="tcp:175087:12"/>
+               <p>Strong Drink doth render the Drinkers thereof lyable to all kind of Evil, but Wa<g ref="char:EOLhyphen"/>ter keeps the Body in due temper, and the Mind Sedate, and fortifying a Man Sedate, and fortifying a Man againſt many Evils, and makes the Body pleaſant, healthful, and fit to diſcharge all the Functions both of the Body and Mind, for it is the Meats and Drinks that are ſimple and natural, that renders the Spirits many in Quantity, and fine in Quality, from whence ariſes lightſome<g ref="char:EOLhyphen"/>neſs to the Body, and Vigour to the Mind.</p>
+            </div>
+            <div type="part">
+               <head>Of <hi>Ponds</hi> or <hi>Standing-Waters.</hi>
+               </head>
+               <p>Such ſtanding-Waters as are in a kind of ſpringy Grounds are the beſt, but ſtill much inferior to running-Waters, becauſe they have not the benefit of Motion, nor the like advantage of paſſing through va<g ref="char:EOLhyphen"/>rious Soils. Such Pools or Waters as are chiefly maintained by Rain or Land<g ref="char:EOLhyphen"/>floods are better or worſe, according as the ſeaſon is wet or dry; for in dry ſea<g ref="char:EOLhyphen"/>ſons they not only become thick and ſli<g ref="char:EOLhyphen"/>my, but awaken a groſs fulſome <hi>Satur<g ref="char:EOLhyphen"/>nine Quality</hi> in the muddy Earth, that
+<pb n="21" facs="tcp:175087:12"/> ſuffocates the pure thin ſpirituous parts; ſo that ſuch Waters become of a ſtrong groſs Earthy taſte and ſmell, which is al<g ref="char:EOLhyphen"/>together contrary to the Nature of Water, and ſuch Waters are not wholſome for Men nor Beaſts. Some <hi>Husbandmen</hi> do ſuppoſe theſe Waters to be very good for Cattle to drink, having no other reaſon but that they will rather drink them than others; which is no reaſon at all; for this came through Cuſtom and Uſe; which makes any ſort of Water familiar to Nature; and thoſe Cattle that are uſed to drink <hi>Pond-Water,</hi> will refuſs better Water for that, for two Reaſons; <hi>Firſt,</hi> Becauſe their Stomachs and Pallates are adulterated, and made familiar to it, ſo that they cannot diſtinguiſh the evil taſte from the good, <hi>Secondly,</hi> Becauſe ſuch <hi>Pond-Waters</hi> are of an hotter and warmer Nature than others, and Cattle uſed to them will for that very cauſe refuſe o<g ref="char:EOLhyphen"/>thers, juſt as men that accuſtom them<g ref="char:EOLhyphen"/>ſelves to warm Beer cannot drink cold without ſome trouble to the Mouth and Teeth, though cold Beer and Ale is warm<g ref="char:EOLhyphen"/>er in Operation, and will more cheer the Stomach, and make the Spirits more
+<pb n="22" facs="tcp:175087:13"/> brisk than the hot, becauſe no fermented Liquors, whether they be <hi>Beer Ale, Cy<g ref="char:EOLhyphen"/>der</hi> or <hi>Wine,</hi> will admit of the heat of fires, without violence to the pure ſpiri<g ref="char:EOLhyphen"/>tuous parts; they are ſo volatile, that they will preſently evaparate; therefore warm Beer or Ale will ſooner become flat than that which has not been warmed; for when the ſpirituous parts are evapo<g ref="char:EOLhyphen"/>rated or ſuffocated, the ſweet brisk Bal<g ref="char:EOLhyphen"/>ſamick Vertue dyes.</p>
+               <p>But this hot ſulpherous Quality in <hi>Pond-Water,</hi> which through cuſtom moſt Cattle like, is of an evil Nature and Operation, becauſe the ſpirituous va<g ref="char:EOLhyphen"/>pours of the Air cannot ſo eaſily pene<g ref="char:EOLhyphen"/>trate through its groſs thickneſs, whence it dulls the edge of the Appetite and Sto<g ref="char:EOLhyphen"/>mach, breeds groſs thick Blood, often is the occaſion of many Diſeaſes, and very injurious to the Milk of Cows. Beſides, do not Pools and ſtanding-Waters gene<g ref="char:EOLhyphen"/>rate various ſorts of Vermine and Inſects, which is cauſed through the Contraction of groſs thick fulſom Matter for want of Motion, all which running Waters are not ſubject to.</p>
+               <p>But although Water be Natures com<g ref="char:EOLhyphen"/>mon
+<pb n="23" facs="tcp:175087:13"/> drink for Man as well as Beaſts, yet ſince now a days Men generally be<g ref="char:EOLhyphen"/>take themſelves to other Liquors, we ſhall briefly treat of them likewiſe.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Excellent Vertues and <g ref="char:V">Ʋ</g>ſes of Cold Water-Gruel made as followeth,</hi> viz.</head>
+               <p>Take one Quart of Water, two ſmall Spoonfuls of New Ground or beaten Oat<g ref="char:EOLhyphen"/>meal, ſtir or brew it well together, then it is done;—This is not only a brave noble exhilerating Drink for general Uſe, and moſt agreeable to all Perſons, to al<g ref="char:EOLhyphen"/>lay all droughty, hot, feaveriſh Indiſpoſiti<g ref="char:EOLhyphen"/>ons; but the conſtant Uſe thereof, does not only preſerve Mankind from the follow<g ref="char:EOLhyphen"/>ing Diſeaſes, but Cures them too, when they have already invaded the Body; this cleanſing Liquor fortifies the Stomach, fines the Blood, gives it a free Circulation, generates brisk lively Spirits, being a good Remedy againſt Fumes and Vapours; likewiſe purgeth powerfully by Urine, prevents and Cures the Gravel, Stone, Gout, and all ſorts of Obſtructions of the Ureters; and more eſpecially this is an excellent Liquor for Women and Chil<g ref="char:EOLhyphen"/>dren
+<pb n="24" facs="tcp:175087:14"/> to make their conſtant drink, and for ſuch as gives Suck, frees their Milk from heat, Windineſs and other Crudi<g ref="char:EOLhyphen"/>ties; I could produce many living Teſti<g ref="char:EOLhyphen"/>monies of its ſucceſs, but it is needleſs, ſince every one's Experience that tries it, will ſoon confirm the Truth of what is here delivered. It is the Conſideration of the Publick Good it may do to ma<g ref="char:EOLhyphen"/>ny thouſands that languiſh under miſe<g ref="char:EOLhyphen"/>rable Circumſtances as to their Health, that prompts me to Publiſh the excellent Vertues of this Cleanſing <hi>Gruel,</hi> but whether you will practiſe or obſerve theſe Methods or not, I have done my Duty in offering my Talents that God hath given me, and therefore am ſatisfied.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:175087:14"/>
+            <head>
+               <hi>Books Printed by</hi> Andrew Sowle, <hi>at the Crooked-Biilet in</hi> Holy well-Lane, <hi>in</hi> Shoreditch.</head>
+            <p n="1">1. <hi>THe Ethiopoians Complaints:</hi> Or a Dialogue between an <hi>Indian Sophy</hi> and a <hi>Europian Philoſopher,</hi> wherein the moſt material points of the <hi>Chriſtian Religion</hi> are Theoſophically unfolded. With a brief Treatiſe of the principal Fruits and Herbs that grow in the <hi>Eaſt &amp; Weſt-Indies,</hi> giving account of their Reſpective Virtues, both for <hi>Food</hi> and <hi>Phyſick,</hi> what Planet and Sign they are under. Together with Directions, and a perti<g ref="char:EOLhyphen"/>cular Method how every one may preſerve their Healths in hot Climates: Publiſhed for the Be<g ref="char:EOLhyphen"/>nefit of Travellers, Merchants and Sea-men.</p>
+            <p n="2">2. <hi>The Way to make all People Rich,</hi> or, Wiſdom's Call to Temperance and Frugality, in a Dialogue between <hi>Sophronio</hi> and <hi>Guloſo,</hi> one a Lover of So<g ref="char:EOLhyphen"/>briety, the other addicted to Gluttony and Exceſs.</p>
+            <p n="3">3. <hi>The Country-Man's Companion:</hi> Or a New Method of ordering Horſes and Sheep, ſo as to preſerve them both from Diſeaſes and Cau<g ref="char:EOLhyphen"/>ſaulties, or to Recover them if fallen ill, and al<g ref="char:EOLhyphen"/>ſo to render them much more Serviceable and Uſe<g ref="char:EOLhyphen"/>ful to their Owners, than has yet been diſcovered, known or practiſed. And particularly to preſerve Sheep from that Monſterous, Mortifying Diſtem<g ref="char:EOLhyphen"/>per, <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rot.</hi>
+            </p>
+            <p n="4">4. There is now in the Preſs, the ſecond Edi<g ref="char:EOLhyphen"/>tion, <hi>The Good Houſwife made a Doctor,</hi> or Health's choice and ſure Friend: Being a Plain Way of Na<g ref="char:EOLhyphen"/>ture's own preſcribing, to <hi>Prevent</hi> and <hi>Cure</hi> moſt
+<pb facs="tcp:175087:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:175087:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:175087:16"/> Diſeaſes incident to Men, Women and Children, by <hi>Diet</hi> and <hi>Kitchin-Phyſick</hi> only. With ſome Remarks on the Practice of <hi>Phyſick</hi> and <hi>Chymiſtry.</hi>
+            </p>
+            <p>All four by <hi>Tho. Tyron,</hi> Studient in Phyſick; and Author of the <hi>Way to Health, Long Life and Happineſs.</hi>
+            </p>
+            <p n="5">5. <hi>A New Treatiſe of Artificial Wines,</hi> or a <hi>Bac<g ref="char:EOLhyphen"/>chean Magazine,</hi> in three parts. The <hi>firſt</hi> Plain and Uſeful Directions, in the Doctrine of Fermen<g ref="char:EOLhyphen"/>tation, by which variety of Artificial Wines are made from various growths, giving an account of their reſpective Vertues and Medicinal Office, both as Phyſick and Drink Part 2. Containing ſhort, but effectual directions for making <hi>Low Wines</hi> into <hi>Proof-Spirits,</hi> with their ſeveral Uſes, in a Way never ſo plainly publiſhed before. Part 3. Some uſeful Curioſities and Medicinal Ob<g ref="char:EOLhyphen"/>ſervations; written on purpoſe to anſwer the re<g ref="char:EOLhyphen"/>queſt of thoſe that deſire to be ſatisfied in things of this Nature. <hi>By</hi> W. Y. <hi>a Spagyrical Phyſitian</hi> and <hi>Phyloſopher by Fire.</hi>
+            </p>
+            <p n="6">6. A Diſconrſe about Trade, Wherein the Re<g ref="char:EOLhyphen"/>duction of Intereſt of Money to 4 <hi>l. per Centum,</hi> is Recommended. Methods for the Employment &amp; Maintenance of the Poor are propoſed. Several weighty Points relating to <hi>Companies of Merchants.</hi> The <hi>Act of Navigation.</hi> Naturalization of Strangers. Our <hi>Wollen-Mannfactures.</hi> The ballance of Trade. And the Nature of Plantations, and their Conſe<g ref="char:EOLhyphen"/>quences in relation to the Kingdom are ſeriouſly Diſcuſſed. And ſome Arguments for erecting a Court of Merchants for determining Controverſies relating to Maritime affairs, and for a Law for tranſ<g ref="char:EOLhyphen"/>ferrance of Bills of Debts, are humbly Offered.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
